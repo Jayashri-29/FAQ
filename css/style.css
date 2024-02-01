@@ -1,0 +1,30 @@
+.header
+{
+    min-height: 50px;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar
+{
+    min-height: 50px;
+    background-color: aquamarine;
+}
+.Question
+{
+    background-color: burlywood;
+}
+.para
+{
+    background-color: darkcyan;
+    color: white;
+}
+.Footer
+{
+    min-height: 50px;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
